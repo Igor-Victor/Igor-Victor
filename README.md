@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Igor-Victor
-- 🐍 I’m interested in Python, but i want to learn another languages.
-- 🌱 I’m currently learning python, and i am loving everything about this language!
+- 🐍 I’m interested in Python, Java and front end technologies
+- 📲 I have experience in Java and Python
 - 📫 How to reach me: You can find me here, or send me a email.
+- 🧠 I like logic
 
 
